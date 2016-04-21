@@ -1,0 +1,9 @@
+Building PlatinumBar
+
+See doc/readme-qt.rst for instructions on building PlatinumBar QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PlatinumBar.
+
+See doc/build-*.txt for instructions on building platinumbard,
+the intended-for-services, no-graphical-interface, reference
+implementation of PlatinumBar.
