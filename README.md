@@ -6,7 +6,7 @@
 
 <p>Block time is 2 minutes. Difficulty Adjustment is 5 blocks.</p>
 
-<p>Currency Code: <b>XPTX<b></p>
+<p>Currency Code: <b>XPTX</b></p>
 
 <p><b>Website</b><br>
 <a href="http://platinumbar.io">http://platinumbar.io</a></p>
