@@ -82,8 +82,8 @@ Proof of Stake with 23% Interest.</p>
 
 <h2>PORTS</h2>
 
-<p><b>RPC PORT:</b> 18994
-<p><b>P2P PORT:</b> 18993</p>
+<p><b>RPC PORT:</b> 18994<br>
+<b>P2P PORT:</b> 18993</p>
 
 
 <h2>MINING POOLS</h2>
