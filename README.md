@@ -9,13 +9,13 @@
 <p>Currency Code: <b>XPTX</b></p>
 
 <p><b>Website</b><br>
-<a href="http://platinumbar.io">http://platinumbar.io</a></p>
+<a href="http://platinumbar.io" target="_blank">http://platinumbar.io</a></p>
 
 <p><b>Twitter</b><br>
-<a href="https://twitter.com/platinumbarxptx">@platinumbarxptx</a></p>
+<a href="https://twitter.com/platinumbarxptx" target="_blank">@platinumbarxptx</a></p>
 
 <p><b>Contact</b><br>
-<a href="mailto:platinumbar@protonmail.com">platinumbar@protonmail.com</a></p>
+<a href="mailto:platinumbar@protonmail.com" target="_blank">platinumbar@protonmail.com</a></p>
 
 <h2>SPECIFICATIONS</h2>
 
@@ -29,10 +29,10 @@ Confirmations Sent: <b>6 Blocks</b></p>
 <h2>BLOCK EXPLORERS</h2>
 
 <p><b>Official Block Explorer</b><br>
-<a href="xptx.io">xptx.io</a></p>
+<a href="xptx.io" target="_blank">xptx.io</a></p>
 
 <p><b>Coin-miners.info</b><br>
-<a href="https://coin-miners.info/explorer?id=1446">https://coin-miners.info/explorer?id=1446</a></p>
+<a href="https://coin-miners.info/explorer?id=1446" target="_blank">https://coin-miners.info/explorer?id=1446</a></p>
 
 <h2>ADDNODES</h2>
 
@@ -89,22 +89,22 @@ Proof of Stake with 23% Interest.</p>
 <h2>MINING POOLS</h2>
 
 <p><b>Supernova</b><br>
-<a href="https://xptx.suprnova.cc">https://xptx.suprnova.cc</a></p>
+<a href="https://xptx.suprnova.cc" target="_blank">https://xptx.suprnova.cc</a></p>
 
 <p><b>Pool</b><br>
-<a href="http://188.166.162.149/">http://188.166.162.149/</a></p>
+<a href="http://188.166.162.149/" target="_blank">http://188.166.162.149/</a></p>
 
 <p><b>Pool</b><br>
-<a href="http://104.131.126.36/">http://104.131.126.36/</a></p>
+<a href="http://104.131.126.36/" target="_blank">http://104.131.126.36/</a></p>
 
 <p><b>Altpool.ninja</b><br>
-<a href="https://altpool.ninja/xptx/">https://altpool.ninja/xptx/</a></p>
+<a href="https://altpool.ninja/xptx/" target="_blank">https://altpool.ninja/xptx/</a></p>
 
 <p><b>Coin-miners.info</b><br>
-<a href="https://coin-miners.info/">https://coin-miners.info/</a></p>
+<a href="https://coin-miners.info/" target="_blank">https://coin-miners.info/</a></p>
 
 <p><b>Wmikrut.com</b><br>
-<a href="http://wmikrut.com/">http://wmikrut.com/</a></p>
+<a href="http://wmikrut.com/" target="_blank">http://wmikrut.com/</a></p>
 
 <p>pszTimestamp = "Ecuador Earthquake: State of Emergency Declared After at Least 238 Killed"</p>
 
