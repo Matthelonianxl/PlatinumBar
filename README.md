@@ -37,7 +37,7 @@ Confirmations Sent: <b>6 Blocks</b></p>
 <p><b>YoBit.net</b><br>
 <a href="https://yobit.net/en/trade/XPTX/BTC" target="_blank">https://yobit.net/en/trade/XPTX/BTC</a></p>
 
-<p><b>Crex24</b><br>
+<p><b>Crex24.com</b><br>
 <a href="https://crex24.com/exchange/XPTX-BTC" target="_blank">https://crex24.com/exchange/XPTX-BTC</a></p>
 
 
