@@ -41,9 +41,9 @@ Confirmations Sent: <b>6 Blocks</b></p>
 <a href="https://crex24.com/exchange/XPTX-BTC" target="_blank">https://crex24.com/exchange/XPTX-BTC</a></p>
 
 
-<h2>BOOTSTRAP 04/2019</h2>
+<h2>BOOTSTRAP</h2>
 
-<p><b>Bootstrap.dat File for Quick Wallet Sync</b><br>
+<p><b>Bootstrap.dat File for Quick Wallet Sync -  04/2019</b><br>
 <a href="https://platinumbar.io/bootstrap.dat" target="_blank">Bootstrap.dat</a></p>
 
 
