@@ -28,7 +28,7 @@ Confirmations Sent: <b>6 Blocks</b></p>
 <h2>BOOTSTRAP</h2>
 
 <p><b>Bootstrap.dat file for quick sync</b><br>
-<a href="https://platinumbar.io/bootstrap.dat" target="_blank">xptx.io</a></p>
+<a href="https://platinumbar.io/bootstrap.dat" target="_blank">Bootstrap.dat</a></p>
 
 <h2>BLOCK EXPLORERS</h2>
 
