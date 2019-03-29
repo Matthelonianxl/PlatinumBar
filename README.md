@@ -31,28 +31,19 @@ Confirmations Sent: <b>6 Blocks</b></p>
 <p><b>Official Block Explorer</b><br>
 <a href="xptx.io" target="_blank">xptx.io</a></p>
 
-<p><b>Coin-miners.info</b><br>
-<a href="https://coin-miners.info/explorer?id=1446" target="_blank">https://coin-miners.info/explorer?id=1446</a></p>
-
 <h2>ADDNODES</h2>
 
-<p><b>Silicon Valley, California, USA</b><br>
-addnode=45.63.87.154</p>
+<p><b>Mud City, USA</b><br>
+addnode=seed1.platinumbar.io</p>
 
-<p><b>FrankFurt, Germany</b><br>
-addnode=45.32.158.142</p>
+<p><b>Windy City, USA</b><br>
+addnode=seed2.platinumbar.io</p>
 
-<p><b>Sydney, Australia</b><br>
-addnode=108.61.168.123</p>
+<p><b>Chi-Town, USA</b><br>
+addnode=seed3.platinumbar.io</p>
 
-<p><b>Tokyo, Japan</b><br>
-addnode=45.32.33.108</p>
-
-<p><b>London, United Kingdom</b><br>
-addnode=45.32.183.210</p>
-
-<p><b>Additional Node</b><br>
-addnode=mineblocks.no-ip.org:18993</p>
+<p><b>Chicago, USA</b><br>
+addnode=seed4.platinumbar.io</p>
 
 
 <h2>PROOF OF WORK</h2>
@@ -86,25 +77,22 @@ Proof of Stake with 23% Interest.</p>
 <b>P2P PORT:</b> 18993</p>
 
 
-<h2>MINING POOLS</h2>
+<h2>EXCHANGES</h2>
 
-<p><b>Supernova</b><br>
-<a href="https://xptx.suprnova.cc" target="_blank">https://xptx.suprnova.cc</a></p>
+<p><b>Cryptopia.co.nz</b><br>
+<a href="https://cryptopia.co.nz/Exchange?market=XPTX_BTC" target="_blank">https://cryptopia.co.nz/Exchange?market=XPTX_BTC</a></p>
 
-<p><b>Pool</b><br>
-<a href="http://188.166.162.149/" target="_blank">http://188.166.162.149/</a></p>
+<p><b>YoBit.net</b><br>
+<a href="https://yobit.net/en/trade/XPTX/BTC" target="_blank">https://yobit.net/en/trade/XPTX/BTC</a></p>
 
-<p><b>Pool</b><br>
-<a href="http://104.131.126.36/" target="_blank">http://104.131.126.36/</a></p>
+<p><b>Crex24</b><br>
+<a href="https://crex24.com/exchange/XPTX-BTC" target="_blank">https://crex24.com/exchange/XPTX-BTC</a></p>
 
 <p><b>Altpool.ninja</b><br>
 <a href="https://altpool.ninja/xptx/" target="_blank">https://altpool.ninja/xptx/</a></p>
 
 <p><b>Coin-miners.info</b><br>
 <a href="https://coin-miners.info/" target="_blank">https://coin-miners.info/</a></p>
-
-<p><b>Wmikrut.com</b><br>
-<a href="http://wmikrut.com/" target="_blank">http://wmikrut.com/</a></p>
 
 <p>pszTimestamp = "Ecuador Earthquake: State of Emergency Declared After at Least 238 Killed"</p>
 
