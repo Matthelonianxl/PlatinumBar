@@ -78,7 +78,6 @@ public:
         assert(hashGenesisBlock == uint256("0x000004de475b31954fbf3febb2c9d88da9a5591323cec370dfdb8a8b0ce3f2d8"));
         assert(genesis.hashMerkleRoot == uint256("0x224206c735b6abebb25c9b49c428569a8f5f58ba616df89be48914acef74aac0"));
 
-		vSeeds.push_back(CDNSSeedData("159.203.21.62", "159.203.21.62"));
 		vSeeds.push_back(CDNSSeedData("seed1.platinumbar.io", "seed1.platinumbar.io"));
 		vSeeds.push_back(CDNSSeedData("seed2.platinumbar.io", "seed2.platinumbar.io"));
 		vSeeds.push_back(CDNSSeedData("seed3.platinumbar.io", "seed3.platinumbar.io"));
