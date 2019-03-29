@@ -88,12 +88,6 @@ Proof of Stake with 23% Interest.</p>
 <p><b>Crex24</b><br>
 <a href="https://crex24.com/exchange/XPTX-BTC" target="_blank">https://crex24.com/exchange/XPTX-BTC</a></p>
 
-<p><b>Altpool.ninja</b><br>
-<a href="https://altpool.ninja/xptx/" target="_blank">https://altpool.ninja/xptx/</a></p>
-
-<p><b>Coin-miners.info</b><br>
-<a href="https://coin-miners.info/" target="_blank">https://coin-miners.info/</a></p>
-
 <p>pszTimestamp = "Ecuador Earthquake: State of Emergency Declared After at Least 238 Killed"</p>
 
 <p>Thanks for taking the time to view this Announcement. We look forward to having you as part of the PlatinumBAR XPTX community.</p>
