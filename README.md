@@ -8,6 +8,8 @@
 
 <p>Currency Code: <b>XPTX</b></p>
 
+<p>pszTimestamp = "Ecuador Earthquake: State of Emergency Declared After at Least 238 Killed"</p>
+
 <p><b>Website</b><br>
 <a href="http://platinumbar.io" target="_blank">http://platinumbar.io</a></p>
 
@@ -17,6 +19,7 @@
 <p><b>Contact</b><br>
 <a href="mailto:platinumbar@protonmail.com" target="_blank">platinumbar@protonmail.com</a></p>
 
+
 <h2>SPECIFICATIONS</h2>
 
 <p>Currency Code: <b>XPTX</b><br>
@@ -25,15 +28,30 @@ Difficulty Adjustment: <b>5 Blocks</b><br>
 Confirmations Minted: <b>90 Blocks</b><br>
 Confirmations Sent: <b>6 Blocks</b></p>
 
+
+<h2>EXCHANGES</h2>
+
+<p><b>Cryptopia.co.nz</b><br>
+<a href="https://cryptopia.co.nz/Exchange?market=XPTX_BTC" target="_blank">https://cryptopia.co.nz/Exchange?market=XPTX_BTC</a></p>
+
+<p><b>YoBit.net</b><br>
+<a href="https://yobit.net/en/trade/XPTX/BTC" target="_blank">https://yobit.net/en/trade/XPTX/BTC</a></p>
+
+<p><b>Crex24</b><br>
+<a href="https://crex24.com/exchange/XPTX-BTC" target="_blank">https://crex24.com/exchange/XPTX-BTC</a></p>
+
+
 <h2>BOOTSTRAP</h2>
 
 <p><b>Bootstrap.dat file for quick sync</b><br>
 <a href="https://platinumbar.io/bootstrap.dat" target="_blank">Bootstrap.dat</a></p>
 
+
 <h2>BLOCK EXPLORERS</h2>
 
 <p><b>Official Block Explorer</b><br>
 <a href="xptx.io" target="_blank">xptx.io</a></p>
+
 
 <h2>ADDNODES</h2>
 
@@ -80,19 +98,6 @@ Proof of Stake with 23% Interest.</p>
 <p><b>RPC PORT:</b> 18994<br>
 <b>P2P PORT:</b> 18993</p>
 
-
-<h2>EXCHANGES</h2>
-
-<p><b>Cryptopia.co.nz</b><br>
-<a href="https://cryptopia.co.nz/Exchange?market=XPTX_BTC" target="_blank">https://cryptopia.co.nz/Exchange?market=XPTX_BTC</a></p>
-
-<p><b>YoBit.net</b><br>
-<a href="https://yobit.net/en/trade/XPTX/BTC" target="_blank">https://yobit.net/en/trade/XPTX/BTC</a></p>
-
-<p><b>Crex24</b><br>
-<a href="https://crex24.com/exchange/XPTX-BTC" target="_blank">https://crex24.com/exchange/XPTX-BTC</a></p>
-
-<p>pszTimestamp = "Ecuador Earthquake: State of Emergency Declared After at Least 238 Killed"</p>
 
 <p>Thanks for taking the time to view this Announcement. We look forward to having you as part of the PlatinumBAR XPTX community.</p>
 
